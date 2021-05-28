@@ -7,7 +7,7 @@ package com.hefeng.config;
  **/
 public class MyConfig {
 
-    public void filter() {
+    /*public void filter() {
         System.out.println("这是过滤器..");
-    }
+    }*/
 }
